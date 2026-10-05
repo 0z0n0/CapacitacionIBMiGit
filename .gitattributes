@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.rpgle text eol=lf
+*.sqlrpgle text eol=lf
+*.clle text eol=lf
+*.sql text eol=lf
+*.rpgleinc text eol=lf
